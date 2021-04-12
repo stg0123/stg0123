@@ -1,7 +1,8 @@
 > 안녕하세요 손태균의 깃허브 페이지입니다<br/>
 
-# 👀안녕하세요
+# 👀안녕하세요<br/>
 - 👋 Hi, I’m @SonTaegyun
+---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
