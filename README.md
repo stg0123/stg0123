@@ -41,5 +41,4 @@
 
 
 ## 📫Contact
-<a href="https://stg0123.github.io/"><img src="https://img.shields.io/badge/tech%blog-181717?style=flat-square&logo=GitHub&logoColor=white" height="40px"/></a>
-
+<a href="https://stg0123.github.io/"><img src="https://img.shields.io/badge/techblog-181717?style=flat-square&logo=GitHub&logoColor=white" height="40px"/></a> <a href="https://blog.naver.com/taegyon12"><img src="https://img.shields.io/badge/naverblog-03C75A?style=flat-square&logo=Naver&logoColor=white" height="40px"/></a>  <a href="https://www.naver.com/"><img src="https://img.shields.io/badge/sontg123@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="40px"/></a>
