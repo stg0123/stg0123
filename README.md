@@ -32,7 +32,7 @@
 - 운전면허증 1종보통
 
 ## 📫기술스택
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" width="100px"/></a> <img src="https://img.shields.io/badge/Java-A7B223?style=flat-square&logo=Java&logoColor=white" width="100px"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="50px"/></a> <img src="https://img.shields.io/badge/Java-A7B223?style=flat-square&logo=Java&logoColor=white" height="50px"/></a>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
