@@ -31,27 +31,11 @@
 - 한국사능력검정 1급
 - 운전면허증 1종보통
 
-## 안녕
+## 📫기술스택
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
-
-- 👋 Hi, I’m @SonTaegyun  
----
---
------
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫
 
-
-
-<!---
-SonTaegyun/SonTaegyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
