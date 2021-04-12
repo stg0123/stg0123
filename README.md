@@ -41,5 +41,5 @@
 
 
 ## 📫Contact
-<a href="https://stg0123.github.io/"><img src="https://img.shields.io/badge/techblog-181717?style=flat-square&logo=GitHub&logoColor=white" height="40px"/></a>
+<a href="https://stg0123.github.io/"><img src="https://img.shields.io/badge/tech%blog-181717?style=flat-square&logo=GitHub&logoColor=white" height="40px"/></a>
 
