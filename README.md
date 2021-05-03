@@ -22,7 +22,7 @@
 - python  활용 댓글 데이터 감성분석 , numpy,pandas,matplot을 활용한그래프시각화 프로젝트
 - python (object detector를 활용한 버스인식, ocr을이용한 번호인식, tts를 이용한 소리출력 > 시각장애인을위한 도착버스번호 소리출력 장치개발 프로젝트)
 - android studio를 이용한 모바일 어플리케이션 제작
-- flask활용 웹 페이지 제작 (session활용 로그인기능, form활용 post,get 방식의 페이지간 데이터 교환, db활용 데이터 저장 및 출력)
+- flask활용 백엔드 개발 (session활용 로그인기능, form활용 post,get 방식의 페이지간 데이터 교환, db활용 데이터 저장 및 출력)
 - kakao 지도 api 활용 웹페이지 개발
 
 ## 🍀자격증
