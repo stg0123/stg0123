@@ -53,6 +53,7 @@ Django
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="40px"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="40px"/>
 
+
 <br>
 
 ## 📫Contact
