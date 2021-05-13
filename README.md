@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/C++-1622D9?style=flat-square&logo=C%2B%2B&logoColor=white" height="40px"/></a>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/Java-A7B223?style=flat-square&logo=Java&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/HTML-D92B2B?style=flat-square&logo=HTML5&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" height="40px"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" height="40px"/></a>
 
 <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height="40px"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" height="40px"/>
 
 <br>
 
