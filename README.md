@@ -19,7 +19,7 @@
 
 ## ⚙프로젝트 경험
 
-- 댓글 데이터 감성분석 , numpy,pandas,matplot을 활용한그래프시각화 프로젝트 (쿠팡 top10 댓글 분석)
+- 쿠팡 댓글 데이터 감성분석 프로젝트 (flask, numpy,pandas,matplotlib 활용) (쿠팡 top10 댓글 분석)
 <br>
 
 - 시각장애인을 위한 버스도착알림장치 프로젝트 (python : OBDE , OCR , TTS 활용) (https://github.com/stg0123/kakao_chatbot)
