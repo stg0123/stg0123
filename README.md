@@ -19,16 +19,16 @@
 
 ## ⚙프로젝트 경험
 
-- 댓글 데이터 감성분석 , numpy,pandas,matplot을 활용한그래프시각화 프로젝트 (쿠팡 top10 댓글 분석)  
+- 댓글 데이터 감성분석 , numpy,pandas,matplot을 활용한그래프시각화 프로젝트 (쿠팡 top10 댓글 분석)
 <br>
 
-- 시각장애인을 위한 버스도착알림장치 프로젝트 (python : OBDE , OCR , TTS 활용) (https://github.com/stg0123/kakao_chatbot)  
+- 시각장애인을 위한 버스도착알림장치 프로젝트 (python : OBDE , OCR , TTS 활용) (https://github.com/stg0123/kakao_chatbot)
 <br>
 
-- 소마 카카오워크 멘토링 알림 서비스 챗봇 개발 프로젝트  (nodejs ,크롤링 활용) (https://github.com/stg0123/kakao_chatbot)  
+- 소마 카카오워크 멘토링 알림 서비스 챗봇 개발 프로젝트  (nodejs ,크롤링 활용) (https://github.com/stg0123/kakao_chatbot)
 <br>
 
-- 소마 해커톤 국회 의안 공공데이터를 이용한 최신법률 토론 서비스 (react, django, 크롤링 활용) (https://github.com/stg0123/assembly_project)  
+- 소마 해커톤 국회 의안 공공데이터를 이용한 최신법률 토론 서비스 (react, django, 크롤링 활용) (https://github.com/stg0123/assembly_project)
 <br>
 
 
