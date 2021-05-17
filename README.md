@@ -22,7 +22,7 @@
 - 쿠팡 댓글 데이터 감성분석 프로젝트 (flask, numpy,pandas,matplotlib 활용) (쿠팡 top10 댓글 분석)
 <br>
 
-- 시각장애인을 위한 버스도착알림장치 프로젝트 (python : OBDE , OCR , TTS 활용) (https://github.com/stg0123/kakao_chatbot)
+- 시각장애인을 위한 버스도착알림장치 프로젝트 (python : OBDE , OCR , TTS 활용) (https://github.com/stg0123/bus_helper)
 <br>
 
 - 소마 카카오워크 멘토링 알림 서비스 챗봇 개발 프로젝트  (nodejs ,크롤링 활용) (https://github.com/stg0123/kakao_chatbot)
