@@ -5,6 +5,10 @@
 - (현)sw마에스트로 12기  
 - (현)숭실대학교 컴퓨터학부 
 
+## 📫Contact
+<a href="https://stg0123.github.io/"><img src="https://img.shields.io/badge/techblog-181717?style=flat-square&logo=GitHub&logoColor=white" height="40px"/></a> <br>
+<a href="https://www.naver.com/"><img src="https://img.shields.io/badge/sontg123@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="40px"/></a>
+
 
 ## 👋About me<br/>
 |활동|기간|비고|
