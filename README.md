@@ -38,7 +38,8 @@
 - 소마 해커톤 국회 의안 공공데이터를 이용한 최신법률 토론 서비스 (react, django, 크롤링 활용) (https://github.com/stg0123/assembly_project)
 <br>
 
-
+- 소마 사용자 음성 분석을 통한 맞춤형 발표 코칭 서비스 (django,stt,android 사용 gitlab에서 프로젝트 중)
+<br>
 
 
 ## 🍀자격증
