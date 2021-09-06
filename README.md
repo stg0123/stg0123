@@ -1,3 +1,25 @@
+<style>
+    div.mydiv{
+        width: 100%;
+        overflow: auto;
+    }
+    div.left{
+        width: 40%;
+        float: left;
+    }
+    div.right{
+        width: 60%;
+        float: right;
+    }
+    p.myp{
+        margin-top: 1em;
+        margin-bottom: 0.5em;
+        font-size: 1.2em;
+    }
+    span.myspan{
+        background-color: aliceblue;
+    }
+</style>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstg0123%2Fhit-counter&count_bg=%235AE57E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false" width="20%" align="right"/></a>  
 
@@ -6,8 +28,11 @@
 - (현)숭실대학교 컴퓨터학부 
 
 ## 📫Contact
-<a href="https://stg0123.github.io/"><img src="https://img.shields.io/badge/techblog-181717?style=flat-square&logo=GitHub&logoColor=white" height="40px"/></a> <br>
-<a href="https://www.naver.com/"><img src="https://img.shields.io/badge/sontg123@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="40px"/></a>
+<ul>
+    <li><span class="myspan">Email</span>  |  sontg123@naver.com</li>
+    <li><span class="myspan">Github</span>  |  <a href="https://github.com/stg0123" target="_blank">https://github.com/stg0123</a></li>
+    <li><span class="myspan">TechBlog</span>  |  <a href="https://stg0123.github.io/" target="_blank">https://stg0123.github.io/</a></li>            
+</ul>
 
 
 ## 👋About me<br/>
