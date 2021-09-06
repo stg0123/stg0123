@@ -6,9 +6,9 @@
 
 ## 📫Contact
 
-- `Email`  |  sontg123@naver.com
-- `TechBlog`  |  <a href="https://stg0123.github.io/" target="_blank">https://stg0123.github.io/</a>
-- `About ME`  |  <a href="https://stg0123.github.io/about/" target="_blank">https://stg0123.github.io/about/</a>
+- `Email` | sontg123@naver.com
+- `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://stg0123.github.io/</a>
+- `About ME` | <a href="https://stg0123.github.io/about/" target="_blank">https://stg0123.github.io/about/</a>
 
 
 ## 👋About me<br/>
@@ -24,24 +24,22 @@
 
 ## ⚙프로젝트 경험
 
-- 아두이노를 활용한 미로찾기 로봇 제작 (교내 창의적공학설계 은상 수상)
+- `말선생` | 소마 사용자 음성 분석을 통한 맞춤형 발표 코칭 서비스 (https://github.com/stg0123/SpeechTeacher-MainServer)
+<br>
+
+- `버스왔어요` | 시각장애인을 위한 버스도착알림장치 프로젝트 (https://github.com/stg0123/bus_helper)
+<br>
+
+- `국회.gg` | 소마 해커톤 국회 의안 공공데이터를 이용한 최신법률 토론 서비스 (https://github.com/stg0123/assembly_project)
+<br>
+
+- `멘토링.gg` | 소마 카카오워크 멘토링 알림 서비스 챗봇 개발 프로젝트 (https://github.com/stg0123/kakao_chatbot)
 <br>
 
 - 쿠팡 댓글 데이터 감성분석 프로젝트 (flask, numpy,pandas,matplotlib 활용) (쿠팡 top10 댓글 분석)
 <br>
 
-- 시각장애인을 위한 버스도착알림장치 프로젝트 (python : OBDE , OCR , TTS 활용) (https://github.com/stg0123/bus_helper)
-<br>
-
-- 소마 카카오워크 멘토링 알림 서비스 챗봇 개발 프로젝트  (nodejs ,크롤링 활용) (https://github.com/stg0123/kakao_chatbot)
-<br>
-
-- 소마 해커톤 국회 의안 공공데이터를 이용한 최신법률 토론 서비스 (react, django, 크롤링 활용) (https://github.com/stg0123/assembly_project)
-<br>
-
-- 소마 사용자 음성 분석을 통한 맞춤형 발표 코칭 서비스 (django,stt,android 사용 gitlab에서 프로젝트 중)
-<br>
-
+- 아두이노를 활용한 미로찾기 로봇 제작 (교내 창의적공학설계 은상 수상)
 
 ## 🍀자격증
 - 정보처리기사
