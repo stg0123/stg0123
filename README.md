@@ -69,4 +69,4 @@
 - `알고리즘` | C, C++, 백준 플래티넘2
 <br>
 
-✨더 자세한 세부 내용들은 <a href="https://stg0123.github.io/about/" target="_blank">About ME</a>에서 확인하세요👋
+✨더 자세한 세부 내용들은 <a href="https://stg0123.github.io/about/" target="_blank">blog About ME</a>에서 확인하세요👋
