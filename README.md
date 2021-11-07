@@ -24,7 +24,7 @@
 
 ## ⚙프로젝트 경험
 
-- `말선생` | 소마 사용자 음성 분석을 통한 맞춤형 발표 코칭 서비스 (https://github.com/stg0123/SpeechTeacher-MainServer)
+- `말선생` | 소마 사용자 음성 분석을 통한 맞춤형 발표 코칭 서비스 (https://github.com/stg0123/SOMA_MainServer)
 <br>
 
 - `버스왔어요` | 시각장애인을 위한 버스도착알림장치 프로젝트 (https://github.com/stg0123/bus_helper)
