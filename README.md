@@ -2,7 +2,7 @@
 
 # ✨안녕하세요 손태균의 깃허브 페이지입니다  
 - (현)sw마에스트로 12기  
-- (현)숭실대학교 컴퓨터학부 
+- (졸)숭실대학교 컴퓨터학부 
 
 ## 📫Contact
 
@@ -11,7 +11,7 @@
 - `About ME` | <a href="https://stg0123.github.io/about/" target="_blank">https://stg0123.github.io/about/</a>
 
 
-## 👋About me<br/>
+## 👋연혁<br/>
 |활동|기간|비고|
 |---|---|---|
 |숭실대학교 컴퓨터학부|2014.03~ | 숭실대헉교 컴퓨터학부 소속|
@@ -42,15 +42,16 @@
 - `Maze Runner` | 아두이노를 활용한 미로찾기 로봇 제작 (교내 창의적공학설계 은상 수상)
 
 ## 🎉수상경력
-- 2014 교내 창의적공학설계대회 은상(미로찾기로봇)
+- 2021 TOPCIT 16회 정보통신기획평가원 참모총장상
 - 2020 TOPCIT 특별평가 총장명의 우수상(2등)
 - 2021 TOPCIT 정기평가 총장명의 장려상
+- 2014 교내 창의적공학설계대회 은상(미로찾기로봇)
 - EEECS 논문 등록 (PaperID : EEECS670)
 
 ## 🍀자격증
 - 정보처리기사
 - SQLD
-- TOPCIT 3수준(580)
+- TOPCIT 3수준
 - 교원자격증 중등학교 정교사(2급) 정보,컴퓨터
 - 교원자격증 증등학교 정교사(2급) 수학
 - MOS EXCEL 2010 EXPERT
@@ -62,7 +63,7 @@
 
 
 ## 📫기술스택
-- `백엔드` | python(Django, flask), Node.js(express), Redis, MySQL, PostgreSQL
+- `백엔드` | python(Django, flask), Node.js(express), java(spring) Redis, MySQL, PostgreSQL
 - `DevOps` | AWS(EC2,RDS,ESB,S3...), docker, kubernetes, Nginx, Linux
 - `프론트엔드` | HTML,CSS,JS
 - `협업,의사소통` | Git, JIRA, Notion, Trello, Excel, PowerPoint
