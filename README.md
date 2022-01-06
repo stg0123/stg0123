@@ -59,7 +59,6 @@
 - Adobe POTOSHOP CS6
 - 한국사능력검정 1급
 - TOEIC SPEAKING lv5
-- 운전면허증 1종보통
 
 
 ## 📫기술스택
