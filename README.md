@@ -63,8 +63,8 @@
 
 ## 📫기술스택
 - `백엔드` | python(Django, flask), Node.js(express), java(spring), Redis, MySQL, PostgreSQL
-- `DevOps` | AWS(EC2,RDS,ESB,S3...), docker, kubernetes, Nginx, Linux
-- `프론트엔드` | HTML,CSS,JS
+- `DevOps` | AWS(VPC, EC2, RDS, S3...), docker, kubernetes, Nginx, Linux
+- `프론트엔드` | HTML, CSS, JS, Android 
 - `협업,의사소통` | Git, JIRA, Notion, Trello, Excel, PowerPoint
 - `알고리즘` | C, C++, 백준 플래티넘2
 <br>
