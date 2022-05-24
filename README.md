@@ -62,11 +62,11 @@
 
 
 ## 📫기술스택
-- `백엔드` | python(Django, flask), Node.js(express), java(spring), Redis, MySQL, PostgreSQL
+- `백엔드` | kotlin(spring), java(spring), python(Django, flask), Node.js(express), scala, Redis, MySQL, PostgreSQL, mongodb
 - `DevOps` | AWS(VPC, EC2, RDS, S3...), docker, kubernetes, Nginx, Linux
 - `프론트엔드` | HTML, CSS, JS, Android 
 - `협업,의사소통` | Git, JIRA, Notion, Trello, Excel, PowerPoint
-- `알고리즘` | C, C++, 백준 플래티넘2
+- `알고리즘` | C, C++
 <br>
 
 ✨더 자세한 내용들은 <a href="https://stg0123.github.io/about/" target="_blank">blog About ME</a>에서 확인하세요👋
