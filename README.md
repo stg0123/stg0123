@@ -58,7 +58,6 @@
 - MOS WORD 2010 EXPERT
 - Adobe POTOSHOP CS6
 - 한국사능력검정 1급
-- TOEIC SPEAKING lv5
 
 
 ## 📫기술스택
