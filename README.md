@@ -17,9 +17,9 @@
 |---|---|---|
 |숭실대학교 컴퓨터학부|2014.03~ | 숭실대학교 컴퓨터학부 소속|
 |숭실대학교 컴퓨터학부 학생회장|2015.12~2016.12|학생회장 할동|
-|공군 정비병 |2017.06~2019.06|공군 병장 만기제대|
 |신진과학기술고등학교 교생실습 |2020.04~2020.05|수학과목 교생실습 및 우수교생 연구수업|
 |소프트웨어 마에스트로 12기|2021.04~2021.11| 소프트웨어 마에스트로 12기 활동|
+|bc카드 인턴|2021.11~2021.12|bc카드 프로세싱bx팀 인턴| 
 |네이버 | 2021.12~ |네이버 신입공채 입사|
 
 ## ⚙프로젝트 경험
@@ -57,14 +57,14 @@
 - MOS EXCEL 2010 EXPERT
 - MOS WORD 2010 EXPERT
 - Adobe POTOSHOP CS6
-- 한국사능력검정 1급
+
 
 
 ## 📫기술스택
 - `백엔드` | kotlin(spring), java(spring), python(Django, flask), Node.js(express), scala, Redis, MySQL, PostgreSQL, mongodb
-- `DevOps` | AWS(VPC, EC2, RDS, S3...), docker, kubernetes, Nginx, Linux
+- `DevOps` | AWS, docker, kubernetes, Nginx, Linux
 - `프론트엔드` | HTML, CSS, JS, Android 
-- `협업,의사소통` | Git, JIRA, Notion, Trello, Excel, PowerPoint
+- `협업,의사소통` | Git, JIRA, Notion, Trello, MS OFFICE
 - `알고리즘` | C, C++
 <br>
 
